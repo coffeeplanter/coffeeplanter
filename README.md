@@ -4,6 +4,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coffeeplanter&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=v43d3rm4k4r&theme=monokai&utcOffset=3)
 
+<br/>
 
 ## 📚 Стек разработки:
 <div>
@@ -17,10 +18,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" alt="Git" height="40"/>&nbsp;
 </div>
 
+<br/>
 
 ## 💻 Инструменты:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=Flat&logo=android-studio&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=Flat&logo=Gradle&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=Flat&logo=sublime-text&logoColor=important)
 
+<br/>
 
 ## 🤝 На связи:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/ilya-solovyov/)
