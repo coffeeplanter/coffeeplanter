@@ -18,7 +18,14 @@
 </div>
 
 
-## 💻 Инструменты: ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=Flat&logo=android-studio&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=Flat&logo=Gradle&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=Flat&logo=sublime-text&logoColor=important)
+## 💻 Инструменты:
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=Flat&logo=android-studio&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=Flat&logo=Gradle&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=Flat&logo=sublime-text&logoColor=important)
 
+
+## 🤝 На связи:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/ilya-solovyov/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link)](https://t.me/inisol)
+
+<br/><br/>
 
 ![](https://komarev.com/ghpvc/?username=coffeeplanter)
